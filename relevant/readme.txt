@@ -3,8 +3,8 @@ Contributors: bestwebsoft
 Donate link: https://bestwebsoft.com/donate/
 Tags: related posts, relevant posts, popular posts, latest posts, featured posts, posts plugin, post widgets, add meta keys for posts, most visited posts, latest blog posts, feachured post, featured posts plugin
 Requires at least: 5.6
-Tested up to: 6.6
-Stable tag: 1.4.4
+Tested up to: 6.7
+Stable tag: 1.4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,6 +71,14 @@ https://www.youtube.com/watch?v=WfTT6xSgrKI
 * Compatible with latest WordPress version
 * Incredibly simple settings for fast setup without modifying code
 * Detailed step-by-step documentation and videos
+
+> **Pro Features**
+>
+> All features from Free version included plus:
+> 
+> * Recommend button for standart post type
+> * Display most recommended in the list
+> * Get answer to your support question within one business day ([Support Policy](https://bestwebsoft.com/support-policy/))
 
 If you have a feature suggestion or idea you'd like to see in the plugin, we'd love to hear about it! [Suggest a Feature](https://support.bestwebsoft.com/hc/en-us/requests/new)
 
@@ -175,6 +183,13 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 10. Relevant widgets settings.
 
 == Changelog ==
+
+= V1.4.5 - 26.12.2023 =
+* NEW : Add new shortcode for posts slider has been added.
+* Bugfix : Bug with title duplicate has been fixed.
+* Update : BWS menu has been updated.
+* Update : We updated functionality for wordpress 6.7.
+* Pro : Recommended functionality is added.
 
 = V1.4.4 - 10.05.2022 =
 * NEW : Add new Date Range - 3 days, 5 days, and 7 days ago.
@@ -321,6 +336,9 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 * Update : Improved design of code.
 
 == Upgrade Notice ==
+
+= V1.4.5 =
+* New features added.
 
 = V1.4.4 =
 * New features added.

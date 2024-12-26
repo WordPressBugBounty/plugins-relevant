@@ -23,3 +23,25 @@
 	font-family: 'bwsicons';
 	content: "\e920";
 }
+.column-recommended_count .recommended-count {
+	position: relative;
+}
+.column-recommended_count .recommended-count-new {
+	border-radius: 50%;
+	background-color: red;
+	color: #fff;
+	width: 20px;
+	position: absolute;
+	display: block;
+	text-align: center;
+	top: -7px;
+	right: -25px;
+	font-size: 10px;
+}
+.rltdpstsplgn-counter {
+	position: absolute;
+	right: 4px;
+}
+.current .rltdpstsplgn-counter {
+	right: 2px;
+}
