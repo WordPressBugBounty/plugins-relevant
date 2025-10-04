@@ -1,7 +1,7 @@
 === Relevant - Related, Featured, Latest, and Popular Posts by BestWebSoft ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
-Tags: related posts, relevant posts, popular posts, latest posts, featured posts, posts plugin, post widgets, add meta keys for posts, most visited posts, latest blog posts, feachured post, featured posts plugin
+Tags: related posts, relevant posts, popular posts, latest posts, featured posts
 Requires at least: 5.6
 Tested up to: 6.7
 Stable tag: 1.4.5
